@@ -14,7 +14,6 @@ body {
     color: #333;
 }
 
-/* HEADER */
 header {
     background: linear-gradient(135deg, #0a66c2, #004182);
     color: white;
@@ -30,7 +29,6 @@ header p {
     margin-top: 6px;
 }
 
-/* NAVBAR */
 nav {
     background-color: #1f1f1f;
     text-align: center;
@@ -57,7 +55,6 @@ nav a:hover {
     border-radius: 20px;
 }
 
-/* SECTIONS */
 section {
     background-color: white;
     max-width: 1000px;
@@ -74,7 +71,6 @@ section h2 {
     padding-bottom: 6px;
 }
 
-/* EDUCATION */
 .edu-card {
     background-color: #eef3f8;
     padding: 20px;
@@ -83,7 +79,6 @@ section h2 {
     margin-bottom: 15px;
 }
 
-/* PROJECTS */
 .card {
     background-color: #eef3f8;
     padding: 18px;
@@ -91,7 +86,6 @@ section h2 {
     border-radius: 8px;
 }
 
-/* LISTS */
 ul {
     list-style: none;
     display: grid;
@@ -105,7 +99,6 @@ ul li {
     border-radius: 6px;
 }
 
-/* BUTTONS */
 .btn {
     background-color: #0a66c2;
     color: white;
@@ -119,7 +112,6 @@ ul li {
     background-color: #004182;
 }
 
-/* GO TO TOP */
 .go-top {
     display: block;
     width: fit-content;
@@ -132,7 +124,6 @@ ul li {
     font-weight: 600;
 }
 
-/* FOOTER */
 footer {
     background-color: #1f1f1f;
     color: white;
@@ -140,7 +131,6 @@ footer {
     padding: 15px;
 }
 
-/* RESPONSIVE */
 @media (max-width: 768px) {
     header h1 {
         font-size: 28px;
@@ -150,3 +140,4 @@ footer {
         margin: 6px;
     }
 }
+
